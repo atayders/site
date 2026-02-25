@@ -1,2 +1,28 @@
-        p {color: blue;}
-        p1 {color: red;}
+    * {
+            font-family: Arial, Helvetica, sans-serif;
+    }
+
+
+    p {
+            color: blue;
+            font-family: 'Courier New', Courier, monospace;
+    }
+
+    p1 {
+            color: red;
+    }
+
+    div {
+            height: 200px;
+            color: black;
+    }
+
+    a {
+            color: red;
+    }
+
+
+   #paragrado1{
+        font-weight: bold;
+        color: orange;
+    }
